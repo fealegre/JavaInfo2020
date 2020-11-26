@@ -1,4 +1,4 @@
-package informatorio;
+package informatorio.ComplLevel1;
 
 import java.util.Scanner;
 
